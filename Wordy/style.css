@@ -1,0 +1,24 @@
+.text-center {
+  color:#34DABC
+}
+
+#about {
+margin-top:100px;
+height:300px;
+width:150px;
+margin-left:250px;
+font-size:25px;
+}
+
+#contact {
+margin-top:-315px;
+height:300px;
+width:150px;
+margin-left:700px;
+font-size:25px;
+}
+
+#pic {
+margin-left:150px;
+
+}
